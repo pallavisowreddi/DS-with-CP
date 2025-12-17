@@ -3,7 +3,7 @@ class StaticIntialization {
         // static D & I
         int[] numbers = {2, 5, 7, 8};
         String[] names = {"anu", "sushmi", "pinky"};
-
+       //. traversal 
         for (int i = 0; i < numbers.length; i++) {
             System.out.println(numbers[i]);
         }
