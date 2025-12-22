@@ -8,6 +8,24 @@ void getAge(){
 System.out.println(age);
 }
 }
+
+
+class Stud{
+String  name;
+int  age;
+
+Stud(String n,int a){
+System.out.println("constructor");
+this.name=n;
+this.age=a;
+}
+void getName(){
+System.out.println(name);
+}
+void getAge(){
+System.out.println(age);
+}
+}
 class Main{
 public static void main(String[] args){
 Student a = new Student();
@@ -17,5 +35,10 @@ System.out.println(a.name);
 System.out.println(a.age);
 a.getName();
 a.getAge();
+
+
+Stud b=new Stud("jeet",39);
+System.out.println(b.name);
+System.out.println(b.age);
 }
 }
