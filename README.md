@@ -13,3 +13,7 @@ output of class_constructor.java
 output of class_basic.java
 <img width="537" height="283" alt="Screenshot 2025-12-23 190617" src="https://github.com/user-attachments/assets/1efcf639-9dcb-4797-b3ad-974ae08e5bb2" />
 
+output of operations.java
+![WhatsApp Image 2025-12-24 at 4 06 45 PM](https://github.com/user-attachments/assets/abb69bfe-2308-4422-8539-0c9134900f34)
+
+
