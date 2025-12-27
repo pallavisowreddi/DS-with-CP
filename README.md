@@ -16,4 +16,10 @@ output of class_basic.java
 output of operations.java
 ![WhatsApp Image 2025-12-24 at 4 06 45 PM](https://github.com/user-attachments/assets/abb69bfe-2308-4422-8539-0c9134900f34)
 
+output of task 5.java
+<img width="587" height="316" alt="Screenshot 2025-12-27 143618" src="https://github.com/user-attachments/assets/bf7150cf-182b-4437-91a5-bcd8b2ef972d" />
+
+
+0utput of task 6.java
+<img width="765" height="258" alt="Screenshot 2025-12-27 144302" src="https://github.com/user-attachments/assets/9ebd702e-81b1-49cf-abd5-b9fdae967de6" />
 
