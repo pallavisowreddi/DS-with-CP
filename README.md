@@ -23,5 +23,7 @@ output of task 5.java
 
 
 0utput of task 6.java
-<img width="765" height="258" alt="Screenshot 2025-12-27 144302" src="https://github.com/user-attachments/assets/9ebd702e-81b1-49cf-abd5-b9fdae967de6" />
+<img width="765" height="258" alt="Screenshot 2025-12-27 144302" src="https://github.com/user-attachments/assets/9ebd702e-81b1-49cf-abd5-b9fdae967de6" /> 
+<img width="748" height="532" alt="Screenshot 2025-12-27 152443" src="https://github.com/user-attachments/assets/561f874d-aebf-4cee-9126-b4ece3ad32f8" />
+
 
