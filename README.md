@@ -29,3 +29,6 @@ output of task7.java
 !<img width="748" height="532" alt="Screenshot 2025-12-27 152443" src="https://github.com/user-attachments/assets/561f874d-aebf-4cee-9126-b4ece3ad32f8" />
 
 
+output of task 8.java
+<img width="697" height="450" alt="Screenshot 2025-12-29 101547" src="https://github.com/user-attachments/assets/6bf3bbc6-fe90-424f-a476-816448290f66" />
+
