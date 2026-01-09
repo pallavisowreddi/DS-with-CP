@@ -32,3 +32,7 @@ output of task7.java
 output of task 8.java
 <img width="697" height="450" alt="Screenshot 2025-12-29 101547" src="https://github.com/user-attachments/assets/6bf3bbc6-fe90-424f-a476-816448290f66" />
 
+output of object.java
+![WhatsApp Image 2026-01-09 at 3 08 46 PM](https://github.com/user-attachments/assets/f730d8e6-8025-40a0-a5dd-af0d9055e6f6)
+
+
