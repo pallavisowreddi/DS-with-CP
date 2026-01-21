@@ -35,4 +35,5 @@ output of task 8.java
 output of object.java
 ![WhatsApp Image 2026-01-09 at 3 08 46 PM](https://github.com/user-attachments/assets/f730d8e6-8025-40a0-a5dd-af0d9055e6f6)
 
-
+output of task 10.java
+"C:\Users\palla\OneDrive\Pictures\Screenshots\Screenshot 2026-01-21 160735.png"
