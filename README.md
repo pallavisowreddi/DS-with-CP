@@ -41,4 +41,6 @@ output of task 10.java
 output of task11.java
 <img width="681" height="550" alt="Screenshot 2026-01-23 143229" src="https://github.com/user-attachments/assets/0d29bead-bc55-4261-a261-9f654afed260" />
 
+output of task12.java
+<img width="361" height="762" alt="Screenshot 2026-01-24 155431" src="https://github.com/user-attachments/assets/94a5ffed-ac9b-47e6-a762-9f477d695d0e" />
 
