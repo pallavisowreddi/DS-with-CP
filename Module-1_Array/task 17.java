@@ -57,7 +57,7 @@ class Main {
         c.r=g;
         d.l=h;
         
-        System.out.println(t.searchinBST(7,a));
+        System.out.println(t.searchinBST(70,a));
         
         
         
