@@ -65,3 +65,7 @@ output of task18.java
 output of task19.java
 <img width="532" height="750" alt="Screenshot 2026-03-06 142112" src="https://github.com/user-attachments/assets/e44dd6dd-9618-402d-b79f-96b75f04dfe6" />
 
+output of task20.java
+<img width="593" height="339" alt="Screenshot 2026-03-09 120013" src="https://github.com/user-attachments/assets/48fb549a-ab4f-48f5-869c-971b56e6d502" />
+
+
