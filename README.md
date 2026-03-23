@@ -71,4 +71,5 @@ output of task20.java
 output of task21.java
 <img width="805" height="424" alt="Screenshot 2026-03-11 160359" src="https://github.com/user-attachments/assets/0b69a8c5-5415-43b1-af4f-1be16857e8c9" />
 
-
+output of task22.java
+"C:\Users\palla\OneDrive\Pictures\Screenshots\Screenshot 2026-03-23 121709.png"
